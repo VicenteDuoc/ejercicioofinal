@@ -7,3 +7,4 @@
 2. Crea una rama para tu mejora (`git checkout -b feature/mejora`).
 3. Realiza tus cambios y haz un **Commit**.
 4. Sube tus cambios (**Push**) y abre un **Pull Request**.
+
