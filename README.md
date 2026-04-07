@@ -1,3 +1,3 @@
-# Proyecto de Practica Luis
+# Ejercicio Final Luis
 
-Este es un ejercicio para dominar GitHub Actions.
+Este es un proyecto de prueba para verificar que el linter de Markdown funciona.
