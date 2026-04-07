@@ -6,6 +6,4 @@
 2. Crea una rama nueva.
 
 Gracias por ayudar.
-
-
-
+ 
